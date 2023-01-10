@@ -1,5 +1,4 @@
 package com.cinema;
-import com.mysql.cj.jdbc.Driver;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
